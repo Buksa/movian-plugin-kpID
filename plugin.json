@@ -1,0 +1,15 @@
+{
+    "type": "ecmascript",
+    "apiversion": 2,
+    "id": "kpID",
+    "file": "index.js",
+    "showtimeVersion": "5",
+    "version": "0.0.1",
+    "downloadURL": "",
+    "author": "author",
+    "title": "kpID",
+    "icon": "logo.png",
+    "category": "video",
+    "synopsis": "test",
+    "description": "test plugin"
+}
